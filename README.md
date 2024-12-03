@@ -1,3 +1,4 @@
+<img src="banner.png" />
 <h1 align="center">Hi 👋, I'm Ifeoma</h1>
 <h3 align="center">An intuitive, creative and experienced Software Developer & UI|UX Designer</h3>
 
