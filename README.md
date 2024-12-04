@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ifeoma</h1>
 <img src="banner1.png" />
-<h3 align="center">Let’s transform your vision into reality with precision and creativity. Reach out today, and let’s build something extraordinary!</h3>
+<h3 align="center">Transform your vision into reality with precision and creativity. Reach out today, and let’s build something extraordinary!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifeomannamah&label=Profile%20views&color=0e75b6&style=flat" alt="ifeomannamah" /> </p>
 
