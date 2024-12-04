@@ -12,13 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<<<<<<< HEAD
 <a href="https://www.linkedin.com/in/ifeoma-nnamah-6784b91b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ifeoma-nnamah-6784b91b7/" height="30" width="40" /></a>
 <a href="https://www.behance.net/ifeomannamah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ifeomannamah" height="30" width="40" /></a>
-=======
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ifeoma-nnamah-6784b91b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ifeoma-nnamah-6784b91b7/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/ifeomannamah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ifeomannamah" height="30" width="60" /></a>
->>>>>>> af0920b257d54e0cf49a41fb05c67056991a15f1
 </p>
 
 <h3 align="left">Organisations:</h3>
